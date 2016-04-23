@@ -1,0 +1,66 @@
+h1 {
+    font-size: 2.0em;
+}
+
+h2 {
+    font-size: 100%;
+}
+
+img {
+    width: 100%;
+    object-fit: contain;
+}
+
+table img {
+    width: 100%;
+}
+
+.slide h2 {
+    font-size: 1.75em;
+}
+
+.series {
+    display: flex;
+}
+
+.series li {
+    display: block;
+    list-style-type: none;
+}
+
+.focus {
+    text-align: center;
+}
+
+table > caption {
+    caption-side: bottom;
+    text-align: center;
+}
+
+footer {
+    font-size: 75%;
+    vertical-align: baseline;
+}
+
+/* Style CSL/citeproc bibliographies appropriately */
+.csl-left-margin, .csl-right-inline {
+    display: inline;
+    font-size: 80%;
+}
+
+.csl-right-inline i {
+    font-style: italic;
+}
+
+.csl-right-inline b {
+    font-weight: bold;
+}
+
+.hidden {
+    display: none;
+}
+
+.csstransitions.csstransforms .deck-container .slide {
+  -webkit-transition: opacity 200ms ease-in-out 0ms;
+  transition: opacity 200ms ease-in-out 0ms;
+}

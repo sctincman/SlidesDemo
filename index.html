@@ -1,0 +1,171 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <meta name="viewport" content="width=1024, user-scalable=no">
+
+  <title>Blank Slide Deck</title>
+
+  <!-- Required stylesheet -->
+  <link rel="stylesheet" href="deck.js/core/deck.core.css">
+
+  <!-- Extension CSS files go here. Remove or add as needed. -->
+  <link rel="stylesheet" media="screen" href="deck.js/extensions/goto/deck.goto.css">
+  <link rel="stylesheet" media="screen" href="deck.js/extensions/menu/deck.menu.css">
+  <link rel="stylesheet" media="screen" href="deck.js/extensions/navigation/deck.navigation.css">
+  <link rel="stylesheet" media="screen" href="deck.js/extensions/status/deck.status.css">
+  <link rel="stylesheet" media="screen" href="deck.js/extensions/scale/deck.scale.css">
+
+  <!-- Style theme. More available in /themes/style/ or create your own. -->
+  <link rel="stylesheet" media="screen" href="deck.js/themes/style/swiss.css">
+
+  <!-- Transition theme. More available in /themes/transition/ or create your own. -->
+  <link rel="stylesheet" media="screen" href="deck.js/themes/transition/fade.css">
+
+  <!-- Printing styles -->
+  <link rel="stylesheet" media="print" href="deck.js/themes/style/swiss.css">
+  <link rel="stylesheet" media="print" href="deck.js/core/print.css">
+
+  <!-- Local tweaks to styles -->
+  <link rel="stylesheet" href="tweak.css">
+
+  <!-- Required Modernizr file -->
+  <script src="deck.js/modernizr.custom.js"></script>
+
+  <!-- MathJax-->
+  <script type="text/javascript" async
+	  src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML">
+  </script>
+  
+</head>
+<body>
+  <div class="deck-container">
+
+    <section class="slide">
+      <section class="vcenter">
+	<h1>Blank Slide Deck</h1>
+	<author>Jonathan Tinkham</author>
+      </section>
+    </section>
+
+    <section class="slide referenced" data-bibfile="refs.json">
+      <h2>Perovskite Solar Cells</h2>
+      <section class="series">
+	<section class="images" style="width: 60%">
+	  <figure>
+	    <img src="diagrams/CH3NH3PbI3_structure.png" />
+	    <caption>Image modified from Wikimedia<cite id="http://zotero.org/users/local/dRD1iltK/items/ZFN2E33T"></cite></caption>
+	</section>
+	<section class="text">
+	  <p>Class of minerals with very interesting structure (resulting in many many applications)</p>
+	  <p>Recent and explosive increase in efficiency over the past decade using Pb/methylammonium (Specifically MAPbI<sub>3</sub>).</p>
+	  <p>Large electron lifetime, diffusion length, and mobility, in addition to large absorptivity, large carrier concentration, ideal bandgap...<cite id="http://zotero.org/users/local/dRD1iltK/items/XPUDVTWX"></cite></p>
+	  <ul><li>All available to a solution processable material</li></ul>
+	</section>
+      </section>
+      <footer class="bibliography"></footer>
+    </section>
+
+    <section class="slide referenced" data-bibfile="refs.json">
+      <h2>Perovskite Challenges</h2>
+      <section class="series">
+	<figure style="width: 40%">
+	  <img src="diagrams/Perovskite_solar_cell_architectures.png" />
+	  <caption>Image cropped from Wikimedia<cite id="http://zotero.org/users/local/dRD1iltK/items/ZMG9ZVM3"></cite></caption>
+	</figure>
+	<section class="text" style="width: 60%">
+	  <p>Aside from improving efficiency, there are some interesting problems to investigate<cite id="http://zotero.org/users/local/dRD1iltK/items/XPUDVTWX"></cite></p>
+	  <ul>
+	    <li class="slide">Lifetime: short and moisture sensitive</li>
+	    <li class="slide">Leaching of Pb into environment</li>
+	    <li class="slide">Replace Pb with Sn: understand performance difference</li>
+	    <li class="slide">Replace spiro-OMeTAD with something more feasible</li>
+	  </ul>
+	</section>
+      </section>
+      <footer class="bibliography"></footer>
+    </section>
+
+    <section class="slide referenced" data-bibfile="refs.json">
+      <h2>Improving Efficiency/Conductivity: Marcus Theory</h2>
+      <section class="series">
+	<section style="width: 50%">
+	  <p>Can be used to model transport via charge-hopping</p>
+	  <p>\(k_{CT} ∝ (\frac{1}{λ_{hole}})^{\frac{1}{2}}e^{-λ_{hole}}\)</p>
+	  <p>There is also another term electronic coupling between systems: <em>V</em></p>
+	  <ul>
+	    <li>Related to "transfer integral"–overlap of wavefuntions for carriers</li>
+	    <li>Highly orientation oriented</li>
+	    <li>In amorphous sample, should be negligable</li>
+	  </ul>
+	  <figure>
+	    <img src="diagrams/Parameters_of_the_Marcus_Equation.JPG" />
+	    <caption>Image from Wikimedia<cite id="http://zotero.org/users/local/dRD1iltK/items/DFKKWV3B"></cite></caption>
+	  </figure>
+	</section>
+	<figure style="width: 50%">
+	  <img src="diagrams/ox.svg" />
+	</figure>
+      </section>
+      <footer class="bibliography"></footer>
+    </section>
+
+    <!-- End Slides. -->
+    
+    <!-- Begin extension snippets. Add or remove as needed. -->
+
+    <!-- deck.navigation snippet -->
+    <div aria-role="navigation">
+      <a href="#" class="deck-prev-link" title="Previous">&#8592;</a>
+      <a href="#" class="deck-next-link" title="Next">&#8594;</a>
+    </div>
+
+    <!-- deck.status snippet -->
+    <p class="deck-status" aria-role="status">
+      <span class="deck-status-current"></span>
+      /
+      <span class="deck-status-total"></span>
+    </p>
+
+    <!-- End extension snippets. -->
+  </div>
+
+<!-- Required JS files. -->
+<script src="deck.js/jquery.min.js"></script>
+<script src="deck.js/core/deck.core.js"></script>
+
+<!-- Extension JS files. Add or remove as needed. -->
+<script src="deck.js/extensions/menu/deck.menu.js"></script>
+<script src="deck.js/extensions/status/deck.status.js"></script>
+<script src="deck.js/extensions/navigation/deck.navigation.js"></script>
+<script src="deck.js/extensions/scale/deck.scale.js"></script>
+
+<!-- Citation/Bibliography related files -->
+<script src="citeproc-js/xmldom.js"></script>
+<script src="citeproc-js/citeproc.js"></script>
+<script src="cite.js"></script>
+
+<!-- Initialize the deck. You can put this in an external file if desired. -->
+<script>
+$(function() {
+    $.deck('.slide');
+});
+
+$.extend(true, $.deck.defaults, {
+    selectors: {
+	statusCurrent: '.deck-status-current',
+	statusTotal: '.deck-status-total'
+    },
+    
+    countNested: false
+});
+
+document.onreadystatechange = function () {
+    if (document.readyState == "complete") {
+	processReferenced();
+    }
+}
+</script>
+</body>
+</html>

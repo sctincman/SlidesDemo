@@ -1,0 +1,263 @@
+[
+	{
+		"id": "http://zotero.org/users/local/dRD1iltK/items/TTBR7QKB",
+		"type": "article-journal",
+		"title": "Current progress and future perspectives for organic/inorganic perovskite solar cells",
+		"container-title": "Materials Today",
+		"page": "16-23",
+		"volume": "17",
+		"issue": "1",
+		"source": "ScienceDirect",
+		"abstract": "The recent emergence of efficient solar cells based on organic/inorganic lead halide perovskite absorbers promises to transform the fields of dye-sensitized, organic, and thin film solar cells. Solution processed photovoltaics incorporating perovskite absorbers have achieved efficiencies of 15% [1] in solid-state device configurations, superseding liquid dye sensitized solar cell (DSC), evaporated and tandem organic solar cells, as well as various thin film photovoltaics; thus establishing perovskite solar cells as a robust candidate for commercialization. Since the first reports in late 2012, interest has soared in the innovative device structures as well as new materials, promising further improvements. However, identifying the basic working mechanisms, which are still being debated, will be crucial to design the optimum device configuration and maximize solar cell efficiencies. Here we distill the current state-of-the-art and highlight the guidelines to ascertain the scientific challenges as well as the requisites to make this technology market-viable.",
+		"URL": "http://www.sciencedirect.com/science/article/pii/S1369702113004562",
+		"DOI": "10.1016/j.mattod.2013.12.002",
+		"ISSN": "1369-7021",
+		"journalAbbreviation": "Materials Today",
+		"author": [
+			{
+				"family": "Boix",
+				"given": "Pablo P."
+			},
+			{
+				"family": "Nonomura",
+				"given": "Kazuteru"
+			},
+			{
+				"family": "Mathews",
+				"given": "Nripan"
+			},
+			{
+				"family": "Mhaisalkar",
+				"given": "Subodh G."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2014",
+					1
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2014",
+					12,
+					12
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/dRD1iltK/items/XPUDVTWX",
+		"type": "article-journal",
+		"title": "Hybrid Organic–Inorganic Perovskites (HOIPs): Opportunities and Challenges",
+		"container-title": "Advanced Materials",
+		"page": "5102-5112",
+		"volume": "27",
+		"issue": "35",
+		"source": "Wiley Online Library",
+		"URL": "http://onlinelibrary.wiley.com/doi/10.1002/adma.201502294/abstract",
+		"DOI": "10.1002/adma.201502294",
+		"ISSN": "1521-4095",
+		"shortTitle": "Hybrid Organic–Inorganic Perovskites (HOIPs)",
+		"journalAbbreviation": "Adv. Mater.",
+		"language": "en",
+		"author": [
+			{
+				"family": "Berry",
+				"given": "Joseph"
+			},
+			{
+				"family": "Buonassisi",
+				"given": "Tonio"
+			},
+			{
+				"family": "Egger",
+				"given": "David A."
+			},
+			{
+				"family": "Hodes",
+				"given": "Gary"
+			},
+			{
+				"family": "Kronik",
+				"given": "Leeor"
+			},
+			{
+				"family": "Loo",
+				"given": "Yueh-Lin"
+			},
+			{
+				"family": "Lubomirsky",
+				"given": "Igor"
+			},
+			{
+				"family": "Marder",
+				"given": "Seth R."
+			},
+			{
+				"family": "Mastai",
+				"given": "Yitzhak"
+			},
+			{
+				"family": "Miller",
+				"given": "Joel S."
+			},
+			{
+				"family": "Mitzi",
+				"given": "David B."
+			},
+			{
+				"family": "Paz",
+				"given": "Yaron"
+			},
+			{
+				"family": "Rappe",
+				"given": "Andrew M."
+			},
+			{
+				"family": "Riess",
+				"given": "Ilan"
+			},
+			{
+				"family": "Rybtchinski",
+				"given": "Boris"
+			},
+			{
+				"family": "Stafsudd",
+				"given": "Oscar"
+			},
+			{
+				"family": "Stevanovic",
+				"given": "Vladan"
+			},
+			{
+				"family": "Toney",
+				"given": "Michael F."
+			},
+			{
+				"family": "Zitoun",
+				"given": "David"
+			},
+			{
+				"family": "Kahn",
+				"given": "Antoine"
+			},
+			{
+				"family": "Ginley",
+				"given": "David"
+			},
+			{
+				"family": "Cahen",
+				"given": "David"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2015",
+					9,
+					1
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2016",
+					3,
+					22
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/dRD1iltK/items/ZFN2E33T",
+		"type": "entry-encyclopedia",
+		"title": "Perovskite (structure)",
+		"container-title": "Wikipedia, the free encyclopedia",
+		"source": "Wikipedia",
+		"abstract": "A perovskite is any material with the same type of crystal structure as calcium titanium oxide (CaTiO3), known as the perovskite structure, or XIIA2+VIB4+X2−3 with the oxygen in the face centers. Perovskites take their name from the mineral, which was first discovered in the Ural mountains of Russia by Gustav Rose in 1839 and is named after Russian mineralogist L. A. Perovski (1792–1856). The general chemical formula for perovskite compounds is ABX3, where 'A' and 'B' are two cations of very different sizes, and X is an anion that bonds to both. The 'A' atoms are larger than the 'B' atoms. The ideal cubic-symmetry structure has the B cation in 6-fold coordination, surrounded by an octahedron of anions, and the A cation in 12-fold cuboctahedral coordination. The relative ion size requirements for stability of the cubic structure are quite stringent, so slight buckling and distortion can produce several lower-symmetry distorted versions, in which the coordination numbers of A cations, B cations or both are reduced.\nNatural compounds with this structure are perovskite, loparite, and the silicate perovskite bridgmanite.",
+		"URL": "https://en.wikipedia.org/w/index.php?title=Perovskite_(structure)&oldid=711756848",
+		"note": "Page Version ID: 711756848",
+		"language": "en",
+		"issued": {
+			"date-parts": [
+				[
+					"2016",
+					3,
+					24
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2016",
+					4,
+					22
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/dRD1iltK/items/ZMG9ZVM3",
+		"type": "entry-encyclopedia",
+		"title": "Perovskite solar cell",
+		"container-title": "Wikipedia, the free encyclopedia",
+		"source": "Wikipedia",
+		"abstract": "A perovskite solar cell is a type of solar cell which includes a perovskite structured compound, most commonly a hybrid organic-inorganic lead or tin halide-based material, as the light-harvesting active layer. Perovskite materials such as methylammonium lead halides are cheap to produce and simple to manufacture. Solar cell efficiencies of devices using these materials have increased from 3.8% in 2009 to 22.1% in early 2016, making this the fastest-advancing solar technology to date. With the potential of achieving even higher efficiencies and the very low production costs, perovskite solar cells have become commercially attractive, with start-up companies already promising modules on the market by 2017.",
+		"URL": "https://en.wikipedia.org/w/index.php?title=Perovskite_solar_cell&oldid=712858171",
+		"note": "Page Version ID: 712858171",
+		"language": "en",
+		"issued": {
+			"date-parts": [
+				[
+					"2016",
+					3,
+					31
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2016",
+					4,
+					22
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/dRD1iltK/items/DFKKWV3B",
+		"type": "entry-encyclopedia",
+		"title": "Marcus theory",
+		"container-title": "Wikipedia, the free encyclopedia",
+		"source": "Wikipedia",
+		"abstract": "Marcus theory is a theory originally developed by Rudolph A. Marcus, starting in 1956, to explain the rates of electron transfer reactions – the rate at which an electron can move or jump from one chemical species (called the electron donor) to another (called the electron acceptor). It was originally formulated to address outer sphere electron transfer reactions, in which the two chemical species only change in their charge with an electron jumping (e.g. the oxidation of an ion like Fe2+/Fe3+), but do not undergo large structural changes. It was extended to include inner sphere electron transfer contributions, in which a change of distances or geometry in the solvation or coordination shells of the two chemical species is taken into account (the Fe-O distances in Fe(H2O)2+ and Fe(H2O)3+ are different).\nFor electron transfer reactions without making or breaking bonds Marcus theory takes the place of Eyring's transition state theory  which has been derived for reactions with structural changes. Both theories lead to rate equations of the same exponential form. However, whereas in Eyring theory the reaction partners become strongly coupled in the course of the reaction to form a structurally defined activated complex, in Marcus theory they are weakly coupled and retain their individuality. It is the thermally induced reorganization of the surroundings, the solvent (outer sphere) and the solvent sheath or the ligands (inner sphere) which create the geometrically favourable situation prior to and independent of the electron jump.\nThe original classical Marcus theory for outer sphere electron transfer reactions demonstrates the importance of the solvent and leads the way to the calculation of the Gibbs free energy of activation, using the polarization properties of the solvent, the size of the reactants, the transfer distance and the Gibbs free energy G0 of the redox reaction. The most startling result of Marcus' theory was the \"inverted region\": whereas the reaction rates usually become higher with increasing exergonicity of the reaction, electron transfer should, according to Marcus theory, become slower in the very negative G0 domain. Scientists searched the inverted region for proof of a slower electron transfer rate for 30 years until it was unequivocally verified experimentally in 1984.\nR.A. Marcus received the Nobel Prize in Chemistry in 1992 for this theory. Marcus theory is used to describe a number of important processes in chemistry and biology, including photosynthesis, corrosion, certain types of chemiluminescence, charge separation in some types of solar cell and more. Besides the inner and outer sphere applications, Marcus theory has been extended to address heterogeneous electron transfer.",
+		"URL": "https://en.wikipedia.org/w/index.php?title=Marcus_theory&oldid=707627741",
+		"note": "Page Version ID: 707627741",
+		"language": "en",
+		"issued": {
+			"date-parts": [
+				[
+					"2016",
+					2,
+					29
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2016",
+					4,
+					22
+				]
+			]
+		}
+	}
+]

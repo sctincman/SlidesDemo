@@ -1,0 +1,9 @@
+[submodule "citeproc-js"]
+	path = citeproc-js
+	url = https://github.com/Juris-M/citeproc-js.git
+[submodule "deck.js"]
+	path = deck.js
+	url = https://github.com/imakewebthings/deck.js.git
+[submodule "styles"]
+	path = styles
+	url = https://github.com/citation-style-language/styles.git
