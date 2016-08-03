@@ -23,6 +23,10 @@ table img {
     display: flex;
 }
 
+.series > * {
+    flex: 1 1;
+}
+
 .series li {
     display: block;
     list-style-type: none;
